@@ -1,4 +1,4 @@
-# Data-Science-Telco-Data-Cleansing
+# Data Science in Telco Data Cleansing
 Sebagai seorang data scientist, kamu diminta untuk menyiapkan data sebelum dilakukan permodelan.
 
 Pada tugas kali ini, kamu akan melakukan Data Preprocessing (Data Cleansing).
